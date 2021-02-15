@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/bar/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/bar/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/bar/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/bar/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/bar/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/bar/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/bar/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/bar/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/bar/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/bar/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/bar/vendor/composer" />
+      <path value="$PROJECT_DIR$/bar/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/bar/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/bar/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/bar/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/bar/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/bar/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/bar/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/bar/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/bar/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/bar/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/bar/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/bar/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/bar/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/bar/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/bar/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/bar/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/bar/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/bar/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/bar/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/bar/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/bar/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/bar/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/bar/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/bar/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/bar/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/bar/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/bar/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/bar/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/bar/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/bar/vendor/twig/extra-bundle" />
+      <path value="$PROJECT_DIR$/bar/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/bar/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/bar/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/bar/vendor/symfony/asset" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
+</project>
